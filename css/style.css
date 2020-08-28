@@ -1,0 +1,39 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.4;
+    background-color: lightblue;
+    padding: 50px 0px 0px 0px;
+    z-index: 0;
+}
+
+.navbar-dark {
+    background-color: darkorange;
+    border-radius: 10px;
+}
+
+img {
+    border-radius: 10px;
+}
+
+.card {
+    background-color: darkseagreen;
+}
+
+.card-img-top {
+    height: 230px;
+}
+
+.card-title {
+    font-size: large;
+    color: deeppink;
+}
+
+.row {
+    font-size: 20px;
+}
